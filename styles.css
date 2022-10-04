@@ -1,0 +1,50 @@
+
+div{
+    width: 50%;
+    height: 34%;
+    position: absolute;
+}
+
+.uno{
+
+    background-color: orange;
+    top: 0%;
+    left: 0%;
+}
+
+.dos{
+
+    background-color: blue;
+    top: 34%;
+    left: 0%;
+
+}
+
+.tres{
+
+    background-color: violet;
+    bottom: 0%;
+    left: 0%;
+    
+}
+
+.cuatro{
+    background-color: yellowgreen;
+    right: 0%;
+    top: 0%
+}
+
+.cinco{
+    background-color: aqua;
+    right: 0%;
+    top: 34%;
+
+}
+
+.seis{
+    background-color: red;
+    right: 0%;
+    bottom: 0%;
+
+}
+
